@@ -96,3 +96,4 @@ GitHub Actions workflow (`.github/workflows/ci.yml`) runs on pushes/PRs to `main
   - Installs dependencies
   - Runs `npm run build`
 
+<img width="614" height="895" alt="image" src="https://github.com/user-attachments/assets/61222c7c-043d-4c14-8df2-c9d12c0bc454" />
