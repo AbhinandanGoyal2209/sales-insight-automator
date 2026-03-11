@@ -1,6 +1,8 @@
 ## Sales Insight Automator
 
 Full-stack project for generating executive sales summaries from CSV data using Gemini and emailing the results.
+### demo
+<img width="614" height="895" alt="image" src="https://github.com/user-attachments/assets/61222c7c-043d-4c14-8df2-c9d12c0bc454" />
 
 ### Project structure
 
