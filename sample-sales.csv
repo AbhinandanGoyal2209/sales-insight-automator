@@ -1,0 +1,12 @@
+date,region,sales_rep,customer,product,category,units,unit_price,revenue
+2026-01-03,North,Alex Smith,Acme Corp,Analytics Suite,Software,12,850,10200
+2026-01-05,West,Maria Lopez,Globex Inc,CRM Plus,Software,8,620,4960
+2026-01-09,South,James Lee,Innotech Ltd,Support Plan,Services,20,150,3000
+2026-01-12,East,Sara Khan,BlueOcean Co,Analytics Suite,Software,5,850,4250
+2026-01-15,North,Alex Smith,FutureWorks,CRM Plus,Software,10,620,6200
+2026-01-18,West,Maria Lopez,Acme Corp,Implementation Pack,Services,3,3200,9600
+2026-01-21,South,James Lee,Globex Inc,Training Bundle,Services,6,950,5700
+2026-01-24,East,Sara Khan,Innotech Ltd,CRM Plus,Software,4,620,2480
+2026-01-27,North,Alex Smith,BlueOcean Co,Analytics Suite,Software,7,850,5950
+2026-01-30,West,Maria Lopez,FutureWorks,Support Plan,Services,15,150,2250
+
